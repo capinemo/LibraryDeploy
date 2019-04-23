@@ -38,3 +38,8 @@ gulp.task('build', gulp.series(
     'cleanExample',
     'buildExample',
 ));
+
+gulp.task('test', gulp.series(
+    'build',
+    'testExample'
+));

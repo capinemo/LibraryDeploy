@@ -1,0 +1,27 @@
+{
+  "name": "LibraryDeploy",
+  "version": "0.0.1",
+  "description": "Example of deployment JS library from Travis CI to GitHub",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-minify": "^3.1.0",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "run": "node index.js"
+  },
+  "keywords": [
+    "browser",
+    "user",
+    "emulation",
+    "site",
+    "functional",
+    "testing",
+    "test"
+  ],
+  "author": "Sadykov Rustem <rmsadykov@picum.ru>"
+}

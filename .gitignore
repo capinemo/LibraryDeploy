@@ -1,0 +1,6 @@
+/nbproject
+/node_modules
+/build
+.git
+.tmp
+npm-debug.log

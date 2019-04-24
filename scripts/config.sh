@@ -7,5 +7,5 @@ EMAIL='capitan__nemo@mail.ru'
 
 DEPLOY_BRANCH='master'
 DEPLOY_COMMAND='Build: '
-VERSION_MATCH='v\d+\.\d+\.\d+';
+VERSION_MATCH='v\.\d+\.\d+\.\d+';
 
